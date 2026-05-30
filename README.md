@@ -14,7 +14,7 @@ A luxury coffee shop website built with HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-caffeine-noir-lounge.netlify.app
+https://caffeine-noir-lounge.netlify.app
 
 
 ## 🛠️ Technologies Used
