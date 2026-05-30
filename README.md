@@ -14,7 +14,8 @@ A luxury coffee shop website built with HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-https://relaxed-kelpie-fdc49e.netlify.app/
+caffeine-noir-lounge.netlify.app
+
 
 ## 🛠️ Technologies Used
 
