@@ -1,27 +1,37 @@
 # Caffeine Noir Lounge
 
-A luxury coffee shop website designed and developed using HTML, CSS, and JavaScript.
+A luxury coffee shop website built with HTML, CSS, and JavaScript.
 
 ## Features
 
-* Responsive Design
-* Multi-page Website
-* Luxury UI Design
-* Interactive Navigation
-* Menu Page
-* Contact Page
-* Reservation Page
-
-## Technologies
-
-* HTML5
-* CSS3
-* JavaScript
+- Fully Responsive Design
+- Luxury Coffee Shop UI
+- Multi-Page Navigation
+- Interactive Menu Categories
+- Reservation Page
+- Contact Page
+- Smooth Animations
 
 ## Live Demo
 
 https://relaxed-kelpie-fdc49e.netlify.app/
 
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Pages
+
+- Home
+- About
+- Menu
+- Contact
+- Reservation
+
 ## Author
 
-Aarmuhi Paranitharan
+Aarmukhi Paranitharan
+
+GitHub: https://github.com/Aarmukhi-Dev
